@@ -10,7 +10,7 @@ A tiny command-line notes tool, used as the practice repo for Unit 4 (Git). The 
 Layout: `notes.js` is the entry point, `lib/store.js` loads and saves notes (in `notes.json`), and `lib/config.js` holds app settings.
 
 ### Set up
-1. Make sure you have your own copy of this repo (created from the lesson on the platform).
+1. Make sure you have a copy of this repo (created from the lesson on the platform).
 2. Clone it locally, and run `gh auth login` so Claude can open pull requests through the `gh` CLI.
 3. Open Claude Code in the cloned folder.
 
